@@ -4,7 +4,7 @@ set -e
 DYN_HOSTNAME=${DYN_HOSTNAME:-""}
 DYN_USER=${DYN_USER:-""}
 DYN_PASS=${DYN_PASS:-""}
-WAIT_TIME=${WAIT_TIME:-"10"}
+WAIT_TIME=${WAIT_TIME:-"300"}
 GET_IP_SERVER=${GET_IP_SERVER:-"http://ipecho.net/plain"}
 
 while true; do
