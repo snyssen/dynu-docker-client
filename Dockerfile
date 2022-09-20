@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-LABEL maintainer="saitkocatas@gmail.com"
+LABEL maintainer="simon.nyssen@mailfence.com"
 
 RUN \
   apk update && \
